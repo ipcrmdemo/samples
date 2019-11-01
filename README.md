@@ -11,6 +11,7 @@ The content team tracks issues for .NET documentation in the [dotnet/docs](https
 
 
 
+
 There are two classes of code in this repository:
 
 - **Snippets** represent small focused examples that demonstrate one feature or syntax. These should be no more than a single screen of code.
