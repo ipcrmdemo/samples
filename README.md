@@ -24,7 +24,6 @@ We are working toward having a CI system in place for all code. When you make an
 project. Ideally, add tests for correctness on samples as well.
 
 ## Snippets
-
 Snippets are extracted from small programs that include the snippet. Snippets are all located in the top level **/snippets** folder. While snippets are small blocks of code, we want to move toward snippets that are part of buildable sample projects.
 
 ## Building a snippet or sample 
